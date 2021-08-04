@@ -9,5 +9,6 @@ A minimal code to watch behavior of a pipeline
 - Navigate to Pipeline tab
   - Add app to Staging
 - Prepare the app
+  - Navigate to Deploy tab and enable Automatic Deploys
   - `heroku buildpacks:add https://github.com/zunda/heroku-buildpack-sh.git`
 - Push the code to GitHub

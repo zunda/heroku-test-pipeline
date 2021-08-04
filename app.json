@@ -1,0 +1,7 @@
+{
+  "buildpacks": [
+    {
+      "url": "https://github.com/zunda/heroku-buildpack-sh.git"
+    }
+  ]
+}
