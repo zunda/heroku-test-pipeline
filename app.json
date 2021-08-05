@@ -1,3 +1,10 @@
 {
-  "stack": "container"
+  "stack": "container",
+  "environments": {
+    "review": {
+      "env": {
+        "REVIEW_APP_CONFIG": "Set in app.json"
+      }
+    }
+  }
 }
