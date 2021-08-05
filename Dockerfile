@@ -1,4 +1,5 @@
 FROM heroku/heroku:20
+ARG FROM_HEROKU_YML
 
 COPY . /app
 WORKDIR /app
