@@ -4,6 +4,7 @@
     "review": {
       "formation": {
         "worker": {
+          "quantity": 1,
           "size": "standard-2x"
         }
       }
